@@ -1,0 +1,10 @@
+java.lang.NullPointerException
+	at test1.Count.inStop(Count.java:242)
+	at test1.Count.wc(Count.java:202)
+	at test1.Count.main(Count.java:116)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.exe4j.runtime.LauncherEngine.launch(LauncherEngine.java:62)
+	at com.exe4j.runtime.WinLauncher.main(WinLauncher.java:101)
